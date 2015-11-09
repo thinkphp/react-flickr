@@ -1,2 +1,0 @@
-reactjs-flickr-gallery
-=======================
